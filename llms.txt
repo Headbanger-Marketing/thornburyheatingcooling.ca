@@ -1,2 +1,25 @@
 # Thornbury Heating & Cooling
-HVAC services in Ontario.
+
+> Thornbury Heating & Cooling: furnace and AC repair, heat pumps, and ductless in Thornbury, Ontario. Local, licensed HVAC team with free quotes.
+
+Thornbury Heating & Cooling is a local HVAC company serving Thornbury and the surrounding Grey County communities.
+
+## Main
+
+- [Thornbury Heating & Cooling - Home](https://thornburyheatingcooling.ca/): Services overview, service areas, reviews, and FAQ.
+
+## Services
+
+- [Furnace Repair](https://thornburyheatingcooling.ca/services/furnace-repair/): Furnace repair in Thornbury, Ontario. Gas, propane, and oil furnaces serviced across Thornbury, Clarksburg, and Ravenna. Same-day calls, free quotes.
+- [AC Repair](https://thornburyheatingcooling.ca/services/ac-repair/): AC repair in Thornbury, Ontario. Central air, heat pumps, and mini-splits serviced for longer and hotter summers. Free quotes.
+- [Ductless AC Installation](https://thornburyheatingcooling.ca/services/ductless-ac-installation/): Ductless mini-split installation in Thornbury, Ontario. Cold-climate units for home offices, additions, cottages, and new builds. Free quotes.
+- [Heat Pump Repair & Installation](https://thornburyheatingcooling.ca/services/heat-pump-repair-installation/): Heat pump repair and installation in Thornbury, Ontario. Cold-climate units for homes and cottages across Grey County. Free quotes.
+- [Thermostat Repair & Replacement](https://thornburyheatingcooling.ca/services/thermostat-repair-replacement/): Smart thermostat repair and replacement in Thornbury, Ontario. Install and setup for cottagers and year-round residents. Free quotes.
+- [Duct Cleaning](https://thornburyheatingcooling.ca/services/duct-cleaning/): Duct cleaning in Thornbury, Ontario. Full-run cleaning for harbour homes, cottages, and new builds across Grey County. Free quotes.
+
+## Company
+
+- [About Us](https://thornburyheatingcooling.ca/about/): Thornbury Heating & Cooling is a licensed, insured HVAC company serving Thornbury, Ontario with honest, reliable heating and cooling care. Meet the team.
+- [Contact](https://thornburyheatingcooling.ca/contact/): Contact Thornbury Heating & Cooling for fast, friendly HVAC service in Thornbury, Ontario. Call (519) 599-0273 or request a free quote online. Open 24/7.
+- [Service Areas](https://thornburyheatingcooling.ca/#areas): Thornbury Heating & Cooling serves Thornbury, Clarksburg, Craigleith, Ravenna, Meaford, Collingwood.
+- [FAQ](https://thornburyheatingcooling.ca/#faq): Common HVAC questions answered on the homepage.
